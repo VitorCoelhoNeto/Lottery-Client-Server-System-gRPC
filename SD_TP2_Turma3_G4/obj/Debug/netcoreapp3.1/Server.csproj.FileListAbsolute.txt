@@ -1,0 +1,5 @@
+C:\Users\vitor\source\repos\SD_TP2_Turma3_G4\SD_TP2_Turma3_G4\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\SD_TP2_Turma3_G4\SD_TP2_Turma3_G4\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\SD_TP2_Turma3_G4\SD_TP2_Turma3_G4\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\vitor\source\repos\SD_TP2_Turma3_G4\SD_TP2_Turma3_G4\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\SD_TP2_Turma3_G4\SD_TP2_Turma3_G4\obj\Debug\netcoreapp3.1\Server.MvcApplicationPartsAssemblyInfo.cache

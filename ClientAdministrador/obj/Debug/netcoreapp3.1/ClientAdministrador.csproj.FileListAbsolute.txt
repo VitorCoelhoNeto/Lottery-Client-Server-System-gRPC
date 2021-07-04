@@ -1,0 +1,69 @@
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.exe
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.deps.json
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.runtimeconfig.json
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.runtimeconfig.dev.json
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.pdb
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.FormAdmin.resources
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.FormListaApostas.resources
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.FormListaUtilizadores.resources
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.AssemblyInfo.cs
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.CopyComplete
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.pdb
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.genruntimeconfig.cache
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.deps.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.runtimeconfig.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.FormAdmin.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.FormListaApostas.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.FormListaUtilizadores.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.deps.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.runtimeconfig.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\ClientAdministrador.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.FormAdmin.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.FormListaApostas.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.FormListaUtilizadores.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientAdministrador\obj\Debug\netcoreapp3.1\ClientAdministrador.csproj.AssemblyReference.cache

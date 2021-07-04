@@ -1,0 +1,68 @@
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.exe
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.deps.json
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.runtimeconfig.json
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.runtimeconfig.dev.json
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.pdb
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.AssemblyInfo.cs
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.pdb
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.genruntimeconfig.cache
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.FormChavesVencedoras.resources
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.FormGestor.resources
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.FormRegistarChaveVencedora.resources
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.CopyComplete
+C:\Users\ROG\Desktop\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.deps.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.runtimeconfig.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.FormChavesVencedoras.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.FormGestor.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.FormRegistarChaveVencedora.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.deps.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.runtimeconfig.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\ClientGestor.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.FormChavesVencedoras.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.FormGestor.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.FormRegistarChaveVencedora.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\3º Ano\Sistemas Distribuídos\Trabalho Prático 2\SD_TP2_Turma3_G4\ClientGestor\obj\Debug\netcoreapp3.1\ClientGestor.csproj.AssemblyReference.cache

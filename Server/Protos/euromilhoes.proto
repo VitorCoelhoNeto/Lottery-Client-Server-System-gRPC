@@ -1,0 +1,58 @@
+syntax = "proto3";
+
+option csharp_namespace = "Server";
+
+service Euromilhoes{
+	rpc RegistarAposta (PedidoAposta) returns (ResultadoPedido);
+	rpc ListarApostas (PedidoListarApostas) returns (ListaDeApostas);
+	rpc ListarUtilizadores (PedidoListarUtilizadores) returns (ListaUtilizadores);
+	rpc ArquivarApostas (PedidoArquivarApostas) returns (ResultadoPedido);
+	rpc SubmeterChaveVencedora (PedidoSubmeterChaveVencedora) returns (ResultadoPedido);
+	rpc ListarApostasVencedoras (PedidoListarApostasVencedoras) returns (ResultadoListarApostasVencedoras);
+}
+
+message Aposta{
+	string nome = 1;
+	string chave = 2;
+	string data = 3;
+}
+
+message ResultadoPedido {
+	bool resultado = 1;
+}
+
+message PedidoAposta{
+	Aposta aposta = 1;
+}
+
+message PedidoListarApostas{
+	string nome = 1;
+}
+
+message ListaDeApostas{
+	repeated Aposta aposta = 1;
+}
+
+message  PedidoListarUtilizadores{ //Nao leva campos porque queremos listar todos
+
+}
+
+message ListaUtilizadores{
+	repeated string utilizador = 1;
+}
+
+message PedidoArquivarApostas{ //Nao leva campos porque queremos arquivar tudo
+
+}
+
+message PedidoSubmeterChaveVencedora{
+	string chave = 1;
+}
+
+message PedidoListarApostasVencedoras { 
+
+}
+
+message ResultadoListarApostasVencedoras { 
+    repeated Aposta aposta = 1;
+}
